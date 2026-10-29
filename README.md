@@ -289,6 +289,9 @@ Every one of these has a meaningful free experience — several are frontier-cla
 - **[Vidu Q3](https://www.vidu.studio)** — Multi-shot 16-second clips with built-in audio sync. | Free: signup credits | Best for: narrative shorts | Catch: limited allocation.
 - **[Wan 2.2 / LTX-2 (open source)](https://github.com/Wan-Video)** — Open-weight video models. | Free: unlimited self-hosted | Best for: privacy, commercial use | Catch: GPU + Python required.
 - **[GrokVideo Studio](https://grokvideogenerator.dev)** — Independent text/image-to-video via xAI Grok Imagine API (not official xAI/X). | Free: 20 trial credits | Best for: quick Grok-powered clips | Catch: trial credits then paid
+- **[Alors On Danse Video Maker](https://alorsondansevideo.com)** — Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok).
+- **[Bad Times AI](https://badtimesai.dev)** — Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99).
+- **[I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com)** — Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99).
 
 ---
 
